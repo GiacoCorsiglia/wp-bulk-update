@@ -1,0 +1,17 @@
+{
+	"name": "giacocorsiglia/wp-bulk-update",
+	"description": "Bulk update function for WordPress meta tables.",
+	"type": "wordpress-muplugin",
+	"version": "1.0.0-beta1",
+	"require": {
+		"php": ">=7.0.0",
+		"composer/installers": "^1.3"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Giaco Corsiglia",
+			"email": "GiacoCorsiglia@gmail.com"
+		}
+	]
+}
